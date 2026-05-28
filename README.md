@@ -2,7 +2,7 @@
 
 ## 🚀 Sobre mim
 
-Sou apaixonado por tecnologia, programação e aprendizado constante. Atualmente estou fazendo um curso Full Stack no Senai, onde venho desenvolvendo habilidades em desenvolvimento web, programação e criação de projetos de software. Busco evoluir minhas habilidades e criar soluções criativas através da tecnologia.
+Sou entusiasta da tecnologia, comecei a programar a pouco tempo e busco aprendizado constante. Atualmente estou fazendo um curso Full Stack no Senai de 670 horas, onde venho desenvolvendo habilidades em desenvolvimento web, programação e criação de projetos de software. Busco evoluir minhas habilidades e criar soluções criativas através da tecnologia.
 
 * 🎓 Estudando: Curso Full Stack no Senai
 * 💻 Linguagens: HTML, CSS, JavaScript, Python e outras
