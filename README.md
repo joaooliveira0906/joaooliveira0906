@@ -1,16 +1,14 @@
-## Hi there 👋
+## Olá, eu sou João Vitor 👋
+# Sobre mim
 
-<!--
-**joaooliveira0906/joaooliveira0906** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou apaixonado por tecnologia, programação e aprendizado constante. Atualmente estou fazendo um curso Full Stack no Senai, onde venho desenvolvendo habilidades em desenvolvimento web, programação e criação de projetos de software. Busco sempre evoluir minhas habilidades e criar soluções criativas através da tecnologia.
 
-Here are some ideas to get you started:
+🎓 Estudando: Curso Full Stack no Senai
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Linguagens: HTML, CSS, JavaScript, Python e outras
+
+📚 Aprendendo atualmente: Desenvolvimento Full Stack
+
+🎯 Objetivo: Crescer profissionalmente na área de tecnologia
+
+🌎 Localização: Brasil
